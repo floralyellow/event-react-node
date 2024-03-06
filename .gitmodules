@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/floralyellow/event-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/floralyellow/event-backend
+[submodule "database"]
+	path = database
+	url = https://github.com/floralyellow/event-database
